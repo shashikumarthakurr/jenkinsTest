@@ -14,6 +14,6 @@ public class CheckingConcept {
 		System.out.println(sb.length());
 		System.out.println(sb.capacity());
 		System.out.println("Git 2nd Push");
-		System.out.println("edit");
+		
 	}
 }
